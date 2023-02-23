@@ -1,3 +1,5 @@
 <template>
-  <IronManWelcome />
+  <div>
+    <NuxtPage />
+  </div>
 </template>
